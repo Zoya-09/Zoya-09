@@ -2,7 +2,7 @@
 
 🎓 I'm a final-year B.Tech Computer Science student at **Mewar University**  
 💡 Passionate about programming, data, and exploring machine learning and software development  
-📚 Learning Python, data analysis, and ML while working on small, practical projects
+📚 Learning Python, web development, data analysis, and ML while working on small, practical projects
 
 ---
 
