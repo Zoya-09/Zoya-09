@@ -7,8 +7,8 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python (intermediate), C++ (basic), JavaScript (basic)
-- **Data & ML:** Excel, Power BI, scikit-learn (beginner), Pandas, NumPy
+- **Languages:** Python (Beginner), C++ (basic), JavaScript (basic)
+- **Data & ML:** Excel, Power BI, Tableau, Pandas, NumPy
 - **Web Basics:** HTML, CSS
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
